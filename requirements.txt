@@ -1,0 +1,4 @@
+# DevToolbox-CLI — Zero Dependencies Core
+# The core functionality requires NO external packages (Python 3.8+)
+# Optional enhancements:
+# qrcode[pil]>=7.4  # For ASCII QR code generation (falls back gracefully if missing)
